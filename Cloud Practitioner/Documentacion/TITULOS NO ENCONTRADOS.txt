@@ -1,0 +1,14 @@
+
+Infrastructure as Code
+AWS Marketplace
+AWS Professional Services
+Grupos de seguridad // security groups
+-----------------VERIFICAR ESTAS DOS------------
+Panel de estado personal de AWS
+Panel de estado del servicio de AWS 
+------------------------
+Cuotas de servicios
+Centro de soporte de AWS
+Niveles de AWS Support
+AWS Snowball Edge
+

@@ -1,0 +1,22 @@
+{
+  "": {
+    "Keys": [
+      {
+        "Registry": {
+          "S": "NCC-13958"
+        },
+        "ShipClass": {
+          "": "Excelsior"
+        }
+      },
+      {
+        "Registry": {
+          "S": "NCC-1864"
+        },
+        "ShipClass": {
+          "": "Miranda"
+        }
+      }
+    ]
+  }
+}
